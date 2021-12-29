@@ -26,10 +26,10 @@
 
 · [PCHES: Program for Coupled Human and Earth Systems](http://www.pches.psu.edu/)
 
+**Publications abd CV**
+
+· Google Scholar](http://goo.gl/EFkukx)
 
 
-[Google Scholar](http://goo.gl/EFkukx)
-
-
-[CV](https://klauskeller.github.io/CV_Klaus_Keller_web.pdf)
+· CV](https://klauskeller.github.io/CV_Klaus_Keller_web.pdf)
 
