@@ -22,5 +22,5 @@
 
 [Publications](http://www.geosc.psu.edu/~kzk10/publications.html)
 
-[CV](http://www3.geosc.psu.edu/~kzk10/CV_Klaus_Keller_web.pdf)
+[CV](https://klauskeller.github.io/CV_Klaus_Keller_web.pdf)
 
