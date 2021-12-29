@@ -1,10 +1,11 @@
-**contact information**
+**Contact Information**
 
 ·  +1 (603) 646-3481
 
 ·   Email: Klaus.Keller@Dartmouth.edu
 
 ·   https://engineering.dartmouth.edu/community/faculty/klaus-keller
+
 
 
 **Example projects**
@@ -18,9 +19,12 @@
 
 · [PCHES: Program for Coupled Human and Earth Systems](http://www.pches.psu.edu/)
 
+
 [Research Group](http://www3.geosc.psu.edu/~kzk10/research-group.html)
 
+
 [Publications](http://www.geosc.psu.edu/~kzk10/publications.html)
+
 
 [CV](https://klauskeller.github.io/CV_Klaus_Keller_web.pdf)
 
