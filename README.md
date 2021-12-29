@@ -1,10 +1,10 @@
 **contact information**
 
-Phone: +1 (603) 646-3481
+·  +1 (603) 646-3481
 
-Email: Klaus.Keller@Dartmouth.edu
+·   Email: Klaus.Keller@Dartmouth.edu
 
-https://engineering.dartmouth.edu/community/faculty/klaus-keller
+·   https://engineering.dartmouth.edu/community/faculty/klaus-keller
 
 
 **Example projects**
@@ -22,8 +22,5 @@ https://engineering.dartmouth.edu/community/faculty/klaus-keller
 
 [Publications](http://www.geosc.psu.edu/~kzk10/publications.html)
 
-[Contact Information](http://www3.geosc.psu.edu/~kzk10/contacts.html)
-
 [CV](http://www3.geosc.psu.edu/~kzk10/CV_Klaus_Keller_web.pdf)
 
-[Biosketch](http://www3.geosc.psu.edu/~kzk10/biosketch.html)
