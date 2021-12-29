@@ -9,7 +9,8 @@
 
 **Keller Lab Group**
 
-· Current Lab Group](http://www3.geosc.psu.edu/~kzk10/research-group.html)
+· [Current Lab Group](http://www3.geosc.psu.edu/~kzk10/research-group.html)
+
 · Please contact me via email if you are interested in joining the lab group.
 
 
