@@ -9,7 +9,7 @@
 
 **Keller Lab Group**
 
-· [Current Lab Group](http://www3.geosc.psu.edu/~kzk10/research-group.html)
+· [Current Lab Group](https://keller-lab.github.io)
 
 · Please contact me via email if you are interested in joining the lab group.
 
@@ -22,7 +22,7 @@
 · [ICOM: Integrated Coastal Modeling](https://climatemodeling.science.energy.gov/projects/integrated-coastal-modeling-icom)  
 
 · [MACH: Megalopolitan Coastal Transformation Hub  
-](https://sites.rutgers.edu/mach/)
+](https://coastalhub.org)
 
 · [PCHES: Program for Coupled Human and Earth Systems](http://www.pches.psu.edu/)
 
